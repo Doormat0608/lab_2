@@ -13,4 +13,5 @@ grades.xlsx: таблица учеников и их оценок
 @MarathonRegbot - сам бот
 
 Скриншот из бота.
+
 ![image](https://github.com/Doormat0608/lab_2/assets/43817157/521ec851-5cb0-4a13-ab0d-e652132796df)
